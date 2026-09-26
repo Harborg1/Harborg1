@@ -23,9 +23,16 @@ Machine Learning | Cybersecurity | Quantitative Finance
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 
 ---
-
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harborg1&show_icons=true)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harborg1&theme=github)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harborg1&layout=compact)
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harborg1&theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Harborg1&theme=github" />
+</p>
+
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harborg1&theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Harborg1&theme=github&utcOffset=2" />
+</p>
