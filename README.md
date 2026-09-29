@@ -34,5 +34,4 @@ Machine Learning | Cybersecurity | Quantitative Finance
 
 <p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harborg1&theme=github" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Harborg1&theme=github&utcOffset=2" />
 </p>
