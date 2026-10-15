@@ -8,7 +8,7 @@ Machine Learning | Cybersecurity | Quantitative Finance
 
 ## What I work on
 
-- Financial Machine Learning
+- Machine Learning
 - AI Agents and automation
 - Full Stack Software Engineering
 - Computer Vision
